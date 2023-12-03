@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 # This script is designed to find hosts my MySQL installed.
 
