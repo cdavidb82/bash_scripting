@@ -1,5 +1,5 @@
 #!/bin/bash
-# This scripts displayt the date and time and who's logged on
+# This scripts displays the date and time and who is logged on
 
 echo The time and date are:
 date
