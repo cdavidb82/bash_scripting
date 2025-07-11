@@ -1,6 +1,6 @@
 #! /bin/bash
 
-# This script will ask for user input, placve the input in a varible, and
+# This script will ask for user input, place the input in a varible, and
 # display the varible contents in string.
 
 echo "What is your name?"
